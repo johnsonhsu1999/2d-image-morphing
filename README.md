@@ -32,7 +32,7 @@
 - UI for field morphing  
 - warping from user-defined feature lines
 
-![Screenshot 2024-06-13 at 11.30.02](./pics/Screenshot 2024-06-13 at 11.30.02.png)
+![Screenshot 2024-06-13 at 11.30.02](./pics/fieldMorph.png)
 
 ==> better if more feature lines 
 
